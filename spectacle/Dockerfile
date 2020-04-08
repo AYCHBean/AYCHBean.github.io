@@ -1,5 +1,5 @@
 FROM node:8-alpine
-MAINTAINER Kam Low <hello@sourcey.com>
+MAINTAINER Jean Wallet <tokeneconomy@eclipso.eu>
 
 USER 0
 WORKDIR /opt
