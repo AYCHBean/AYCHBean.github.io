@@ -1,5 +1,5 @@
 /**
- * Copyright (c) 2016 Kam Low
+ * Copyright (c) 2020 Jean Wallet
  *
  * @license MIT
  **/
