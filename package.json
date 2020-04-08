@@ -1,7 +1,7 @@
 {
-  "name": "bittrex-developers",
-  "version": "0.1.0",
-  "description": "Bittrex has released an initial version of its Websocket API.",
+  "name": "AYCHBean",
+  "version": "3.0",
+  "description": "AYCHBean has released an initial version of its Websocket API.",
   "scripts": {
     "dev": "concurrently \"npm run serve\" \"npm run watch\"",
     "dev:v3": "concurrently \"npm run serve\" \"npm run watch build:spectacle:v3\"",
